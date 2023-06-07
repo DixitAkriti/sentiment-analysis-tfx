@@ -1,4 +1,3 @@
-import os
 import tensorflow as tf
 import tensorflow_transform as tft 
 from tensorflow.keras import layers  
